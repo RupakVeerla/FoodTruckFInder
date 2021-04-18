@@ -13,7 +13,8 @@ import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 
 /**
- * @author rupak FoodTruckFinder fetches json data from
+ * @author rupak
+ *	   FoodTruckFinder fetches json data from
  *         https://data.sfgov.org/resource/jjew-r69b.json and prints Name and
  *         location on console
  * 
