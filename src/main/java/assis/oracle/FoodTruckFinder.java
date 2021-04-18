@@ -17,8 +17,11 @@ import com.mashape.unirest.http.exceptions.UnirestException;
  *         https://data.sfgov.org/resource/jjew-r69b.json and prints Name and
  *         location on console
  * 
- *         Example NAME ADDRESS ---- ------- La Jefa 531 BAY SHORE BLVD Munch A
- *         Bunch 1850 MISSION ST
+ *         Example 
+ *         NAME 			ADDRESS 
+ *         ---- 			------- 
+ *         La Jefa 			531 BAY SHORE BLVD Munch A
+ *         Bunch 			1850 MISSION ST
  */
 public class FoodTruckFinder {
 	public static void main(String[] args) {
